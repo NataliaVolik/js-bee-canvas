@@ -1,0 +1,16 @@
+#canvas {
+  background-image: url("images/background.png");
+  position: absolute;
+}
+#eyes {
+  /*background-color: darkgray;*/
+  position: relative;
+}
+
+#info {
+  background-color: black;
+  color: white;
+  width: 300px;
+  height: 300px;
+  float: right;
+}
